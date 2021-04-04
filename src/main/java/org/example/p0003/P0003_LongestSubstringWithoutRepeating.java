@@ -9,7 +9,7 @@ public class P0003_LongestSubstringWithoutRepeating {
 
         Solution solution = new Solution();
 
-        System.out.println(solution.lengthOfLongestSubstring("kbacec"));
+        System.out.println(solution.lengthOfLongestSubstring("abcabcbb"));
     }
 }
 
@@ -21,9 +21,8 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
 
            Set<Character> set = new HashSet<>();
-
            int counter = 0;
-           for(int k = i; k < s.length() - 1; k++){
+           for(int k = i; k < s.length(); k++){
                if(!set.add(array[k])){
                    if(counter > result){
                        result = counter;
@@ -31,7 +30,9 @@ class Solution {
                    break;
                }
                counter++;
-
+               if(counter > result){
+                   result = counter;
+               }
 
            }
         }
