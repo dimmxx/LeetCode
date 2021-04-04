@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e509eee5-2510-4c48-b6bf-afce39fd2296" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/p0003/P0003_LongestSubstringWithoutRepeating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/P0002_AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/p0002/P0002_AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/p0003/P0003_LongestSubstringWithoutRepeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/p0003/P0003_LongestSubstringWithoutRepeating.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,15 +51,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,7 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1617265501659</updated>
       <workItem from="1617265502747" duration="1442000" />
-      <workItem from="1617464963064" duration="2224000" />
+      <workItem from="1617464963064" duration="2553000" />
+      <workItem from="1617514219955" duration="3923000" />
     </task>
     <servers />
   </component>
@@ -99,11 +98,20 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/p0003/P0003_LongestSubstringWithoutRepeating.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="array[i]" language="JAVA" />
         <watch expression="array[j]" language="JAVA" />
-        <watch expression="array[j+1]" language="JAVA" />
+        <watch expression="array[k]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>

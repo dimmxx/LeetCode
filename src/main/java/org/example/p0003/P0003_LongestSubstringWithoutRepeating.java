@@ -1,12 +1,15 @@
 package org.example.p0003;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class P0003_LongestSubstringWithoutRepeating {
 
     public static void main(String[] args) {
 
         Solution solution = new Solution();
 
-        System.out.println(solution.lengthOfLongestSubstring("abchc"));
+        System.out.println(solution.lengthOfLongestSubstring("kbacec"));
     }
 }
 
@@ -16,19 +19,21 @@ class Solution {
         int result = 0;
         char[] array = s.toCharArray();
         for (int i = 0; i < s.length(); i++) {
-            int counter = 1;
-            for (int j = i; j < s.length() - 1; j++) {
-                if (array[j] != array[j + 1]) {
-                    counter++;
-                    if (j != s.length() - 2) {
-                        continue;
-                    }
-                }
-                if (counter > result) {
-                    result = counter;
-                }
-                break;
-            }
+
+           Set<Character> set = new HashSet<>();
+
+           int counter = 0;
+           for(int k = i; k < s.length() - 1; k++){
+               if(!set.add(array[k])){
+                   if(counter > result){
+                       result = counter;
+                   }
+                   break;
+               }
+               counter++;
+
+
+           }
         }
         return result;
     }
