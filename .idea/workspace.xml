@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e509eee5-2510-4c48-b6bf-afce39fd2296" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/p0006/P0006_ZigZagConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +81,7 @@
       <workItem from="1617464963064" duration="2553000" />
       <workItem from="1617514219955" duration="3923000" />
       <workItem from="1617548878555" duration="1388000" />
-      <workItem from="1619241231039" duration="324000" />
+      <workItem from="1619241231039" duration="707000" />
     </task>
     <servers />
   </component>
