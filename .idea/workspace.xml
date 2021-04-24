@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e509eee5-2510-4c48-b6bf-afce39fd2296" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/p0006/P0006_ZigZagConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/p0003/P0003_LongestSubstringWithoutRepeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/p0003/P0003_LongestSubstringWithoutRepeating.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +34,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -51,15 +54,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,6 +83,7 @@
       <workItem from="1617464963064" duration="2553000" />
       <workItem from="1617514219955" duration="3923000" />
       <workItem from="1617548878555" duration="1388000" />
+      <workItem from="1619241231039" duration="324000" />
     </task>
     <servers />
   </component>
