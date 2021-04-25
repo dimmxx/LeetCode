@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e509eee5-2510-4c48-b6bf-afce39fd2296" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/p0006/P0006_ZigZagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/p0006/P0006_ZigZagConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/p0006/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/p0006/example.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -38,7 +41,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.P0006_ZigZagConversion">
     <configuration name="P0003_LongestSubstringWithoutRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.p0003.P0003_LongestSubstringWithoutRepeating" />
       <module name="LeetCode" />
@@ -52,19 +55,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="P0006_ZigZagConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.p0006.P0006_ZigZagConversion" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.p0006.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P0006_ZigZagConversion" />
         <item itemvalue="Application.P0003_LongestSubstringWithoutRepeating" />
       </list>
     </recent_temporary>
@@ -82,6 +101,9 @@
       <workItem from="1617514219955" duration="3923000" />
       <workItem from="1617548878555" duration="1388000" />
       <workItem from="1619241231039" duration="707000" />
+      <workItem from="1619241972983" duration="19000" />
+      <workItem from="1619295927077" duration="983000" />
+      <workItem from="1619327052283" duration="2942000" />
     </task>
     <servers />
   </component>
@@ -99,6 +121,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
