@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e509eee5-2510-4c48-b6bf-afce39fd2296" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/p0006/~$example.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/p0006/P0006_ZigZagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/p0006/P0006_ZigZagConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/p0006/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/p0006/example.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/p0006/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/p0006/Solution.class" afterDir="false" />
-    </list>
+    <list default="true" id="e509eee5-2510-4c48-b6bf-afce39fd2296" name="Default Changelist" comment="zigzag" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,8 +101,16 @@
       <workItem from="1619295927077" duration="983000" />
       <workItem from="1619327052283" duration="2942000" />
       <workItem from="1619413543427" duration="1821000" />
-      <workItem from="1619440039906" duration="2772000" />
+      <workItem from="1619440039906" duration="2865000" />
     </task>
+    <task id="LOCAL-00001" summary="zigzag">
+      <created>1619443572569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619443572569</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +130,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="zigzag" />
+    <option name="LAST_COMMIT_MESSAGE" value="zigzag" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
