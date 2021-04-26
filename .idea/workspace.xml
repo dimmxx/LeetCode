@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e509eee5-2510-4c48-b6bf-afce39fd2296" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/p0006/~$example.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/p0006/P0006_ZigZagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/p0006/P0006_ZigZagConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/p0006/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/p0006/example.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/p0006/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/p0006/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +106,8 @@
       <workItem from="1619241972983" duration="19000" />
       <workItem from="1619295927077" duration="983000" />
       <workItem from="1619327052283" duration="2942000" />
+      <workItem from="1619413543427" duration="1821000" />
+      <workItem from="1619440039906" duration="2772000" />
     </task>
     <servers />
   </component>
@@ -138,8 +142,6 @@
     <watches-manager>
       <configuration name="Application">
         <watch expression="array[i]" language="JAVA" />
-        <watch expression="array[j]" language="JAVA" />
-        <watch expression="array[k]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
