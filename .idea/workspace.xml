@@ -4,7 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e509eee5-2510-4c48-b6bf-afce39fd2296" name="Default Changelist" comment="zigzag" />
+    <list default="true" id="e509eee5-2510-4c48-b6bf-afce39fd2296" name="Default Changelist" comment="zigzag">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/consolestorage/flexible_search_region.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/consolestorage/solr_region.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hybrisProjectSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/p0005/P0005_LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/p0005/SolutionON2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/p0020/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/p0020/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/p0042/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/p0042/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/p0445/P0445_AddTwoNumbers2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/ArrayCommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/MaxNArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/MaxSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/MergeArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/SameCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/Screenshot 2024-01-09 at 11.58.26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/SmallestPositiveInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/StreamApiTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/StreamApiTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/StreamApiTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/StreamApiTask4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/StreamApiTask5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/ValidBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tiproblems/problems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2211" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/222" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2222" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocks/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocks/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/p0002/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/p0002/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/p0002/P0002_AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/p0002/P0002_AddTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/p0002/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/p0002/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/p0003/P0003_LongestSubstringWithoutRepeating.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/p0003/P0003_LongestSubstringWithoutRepeating.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/p0003/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/p0003/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/p0006/P0006_ZigZagConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/p0006/P0006_ZigZagConversion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/p0006/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/p0006/Solution.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +77,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/p0005/SolutionON2.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="HybrisDeveloperSpecificProjectSettings">
+    <option name="activeRemoteConnectionID" value="6251ef28-1ae6-4db0-b5d4-45dcd6bd0529" />
+    <option name="activeSolrConnectionID" value="dd3e77c7-820e-4551-82de-67e15a893018" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="1qYngQWCMQoCRXZ8wPQoootlhYt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -27,43 +98,56 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayCommonElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MaxNArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSubArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeArrays.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SameCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestPositiveInt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamApiTask1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamApiTask2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamApiTask3.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.StreamApiTask4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamApiTask5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidBrackets.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Dmytro_Borysov/JavaProjects/course/LeetCode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/p0005" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/p0445" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/p0042" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.tiproblems" />
+      <recent name="org.example.other" />
+      <recent name="org.example.p0005" />
+      <recent name="org.example.p0020" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.P0006_ZigZagConversion">
-    <configuration name="P0003_LongestSubstringWithoutRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.p0003.P0003_LongestSubstringWithoutRepeating" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.p0003.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P0006_ZigZagConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.p0006.P0006_ZigZagConversion" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.p0006.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SameCharacters">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -77,12 +161,88 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArrayCommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.tiproblems.ArrayCommonElements" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.tiproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.tiproblems.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.tiproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.tiproblems.MaxSubArraySum" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.tiproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SameCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.tiproblems.SameCharacters" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.tiproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamApiTask5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.tiproblems.StreamApiTask5" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.tiproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P0006_ZigZagConversion" />
-        <item itemvalue="Application.P0003_LongestSubstringWithoutRepeating" />
+        <item itemvalue="Application.SameCharacters" />
+        <item itemvalue="Application.StreamApiTask5" />
+        <item itemvalue="Application.MaxSubArraySum" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrayCommonElements" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -102,6 +262,142 @@
       <workItem from="1619327052283" duration="2942000" />
       <workItem from="1619413543427" duration="1821000" />
       <workItem from="1619440039906" duration="2865000" />
+      <workItem from="1648526144289" duration="1365000" />
+      <workItem from="1656773232313" duration="1493000" />
+      <workItem from="1656826367066" duration="2684000" />
+      <workItem from="1656923566902" duration="1889000" />
+      <workItem from="1660503177829" duration="2039000" />
+      <workItem from="1661181662268" duration="3000" />
+      <workItem from="1689611664333" duration="1158000" />
+      <workItem from="1689623489798" duration="6000" />
+      <workItem from="1689691325914" duration="9500000" />
+      <workItem from="1689750361719" duration="4046000" />
+      <workItem from="1689768152358" duration="2375000" />
+      <workItem from="1690572338342" duration="852000" />
+      <workItem from="1690663562246" duration="1596000" />
+      <workItem from="1690694749530" duration="2012000" />
+      <workItem from="1690710072558" duration="6055000" />
+      <workItem from="1690905246063" duration="2179000" />
+      <workItem from="1690915008644" duration="3291000" />
+      <workItem from="1690921492076" duration="1169000" />
+      <workItem from="1690960883418" duration="5000" />
+      <workItem from="1692249174862" duration="457000" />
+      <workItem from="1692335386029" duration="4156000" />
+      <workItem from="1692420196136" duration="6173000" />
+      <workItem from="1692475866005" duration="3520000" />
+      <workItem from="1692508659752" duration="5711000" />
+      <workItem from="1692533384802" duration="1602000" />
+      <workItem from="1692609941389" duration="7000" />
+      <workItem from="1703001771084" duration="3952000" />
+      <workItem from="1703136293171" duration="1622000" />
+      <workItem from="1703150334445" duration="1721000" />
+      <workItem from="1703164038737" duration="3132000" />
+      <workItem from="1703181302227" duration="13000" />
+      <workItem from="1703233381654" duration="1270000" />
+      <workItem from="1703236817607" duration="2312000" />
+      <workItem from="1703672940272" duration="785000" />
+      <workItem from="1704793164328" duration="826000" />
+      <workItem from="1704794650717" duration="530000" />
+      <workItem from="1704798186935" duration="3896000" />
+      <workItem from="1704817832516" duration="528000" />
+      <workItem from="1704818504939" duration="83000" />
+      <workItem from="1704873455578" duration="2248000" />
+      <workItem from="1704884449803" duration="7197000" />
+      <workItem from="1704901548617" duration="2000000" />
+      <workItem from="1704991179950" duration="1725000" />
+      <workItem from="1705052376223" duration="2722000" />
+      <workItem from="1705247425710" duration="1180000" />
+      <workItem from="1705307492618" duration="399000" />
+      <workItem from="1705313926808" duration="5000" />
+      <workItem from="1705314791056" duration="3751000" />
+      <workItem from="1705495212428" duration="2404000" />
+      <workItem from="1705672465897" duration="1587000" />
+      <workItem from="1705679219513" duration="796000" />
+      <workItem from="1705815443375" duration="4000" />
+      <workItem from="1706015692258" duration="2674000" />
+      <workItem from="1706279599054" duration="2635000" />
+      <workItem from="1706288825727" duration="458000" />
+      <workItem from="1706792780566" duration="2749000" />
+      <workItem from="1706806540480" duration="450000" />
+      <workItem from="1707130703732" duration="644000" />
+      <workItem from="1707216370728" duration="7000" />
+      <workItem from="1707403599407" duration="628000" />
+      <workItem from="1708008190568" duration="1242000" />
+      <workItem from="1708010364301" duration="989000" />
+      <workItem from="1708079272335" duration="10000" />
+      <workItem from="1708342155329" duration="2446000" />
+      <workItem from="1708511918885" duration="607000" />
+      <workItem from="1708599241975" duration="1708000" />
+      <workItem from="1708618444552" duration="658000" />
+      <workItem from="1708684043937" duration="3405000" />
+      <workItem from="1709038588950" duration="659000" />
+      <workItem from="1709120173156" duration="3099000" />
+      <workItem from="1709129800671" duration="643000" />
+      <workItem from="1709198501194" duration="1327000" />
+      <workItem from="1709223190062" duration="1694000" />
+      <workItem from="1709278209754" duration="9000" />
+      <workItem from="1709293700556" duration="3214000" />
+      <workItem from="1709639497435" duration="1698000" />
+      <workItem from="1709646269257" duration="645000" />
+      <workItem from="1709651254615" duration="24000" />
+      <workItem from="1709651495626" duration="4000" />
+      <workItem from="1709725912572" duration="600000" />
+      <workItem from="1709808634871" duration="282000" />
+      <workItem from="1710157523209" duration="1312000" />
+      <workItem from="1710173645649" duration="602000" />
+      <workItem from="1710229425524" duration="598000" />
+      <workItem from="1710241731232" duration="2695000" />
+      <workItem from="1710259676310" duration="91000" />
+      <workItem from="1710336080020" duration="608000" />
+      <workItem from="1710409616256" duration="597000" />
+      <workItem from="1710429340772" duration="597000" />
+      <workItem from="1710841858649" duration="4335000" />
+      <workItem from="1710865194829" duration="645000" />
+      <workItem from="1710926423742" duration="4978000" />
+      <workItem from="1711016833436" duration="5118000" />
+      <workItem from="1711090488436" duration="3064000" />
+      <workItem from="1711105159784" duration="1381000" />
+      <workItem from="1711361218531" duration="1627000" />
+      <workItem from="1711380675873" duration="648000" />
+      <workItem from="1711429337923" duration="239000" />
+      <workItem from="1711438709674" duration="1231000" />
+      <workItem from="1711448712845" duration="2746000" />
+      <workItem from="1711468429595" duration="7000" />
+      <workItem from="1711471997348" duration="4750000" />
+      <workItem from="1711544067900" duration="1460000" />
+      <workItem from="1712570277551" duration="5302000" />
+      <workItem from="1712591697284" duration="878000" />
+      <workItem from="1712827890835" duration="1234000" />
+      <workItem from="1713176297109" duration="4210000" />
+      <workItem from="1713206003926" duration="3000" />
+      <workItem from="1713207502878" duration="166000" />
+      <workItem from="1713259656240" duration="4000" />
+      <workItem from="1713262893061" duration="2043000" />
+      <workItem from="1713346022962" duration="3819000" />
+      <workItem from="1713875817452" duration="1101000" />
+      <workItem from="1713889482669" duration="786000" />
+      <workItem from="1714645553903" duration="3046000" />
+      <workItem from="1714724609182" duration="3287000" />
+      <workItem from="1715336420039" duration="4808000" />
+      <workItem from="1715858798323" duration="2662000" />
+      <workItem from="1715875054040" duration="98000" />
+      <workItem from="1716200506837" duration="1656000" />
+      <workItem from="1717583198015" duration="1930000" />
+      <workItem from="1717586983078" duration="816000" />
+      <workItem from="1718012536508" duration="606000" />
+      <workItem from="1718342546533" duration="63000" />
+      <workItem from="1718342636765" duration="33000" />
+      <workItem from="1718342675415" duration="1974000" />
+      <workItem from="1718355899214" duration="6000" />
+      <workItem from="1718370782679" duration="80000" />
+      <workItem from="1718612586086" duration="1203000" />
+      <workItem from="1718613871705" duration="1500000" />
+      <workItem from="1718965227279" duration="2521000" />
+      <workItem from="1720005625736" duration="687000" />
+      <workItem from="1720014525041" duration="7000" />
+      <workItem from="1721640486249" duration="2310000" />
+      <workItem from="1721651380280" duration="1968000" />
+      <workItem from="1721659819142" duration="1133000" />
     </task>
     <task id="LOCAL-00001" summary="zigzag">
       <created>1619443572569</created>
@@ -126,7 +422,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -141,12 +436,81 @@
           <line>20</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/p0020/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/p0445/P0445_AddTwoNumbers2.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/p0005/P0005_LongestPalindromicSubstring.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/p0005/P0005_LongestPalindromicSubstring.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/p0005/P0005_LongestPalindromicSubstring.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/p0005/SolutionON2.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/p0005/SolutionON2.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/p0005/SolutionON2.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/p0005/SolutionON2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/tiproblems/ArrayCommonElements.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/tiproblems/ValidBrackets.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/tiproblems/ValidBrackets.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/tiproblems/Main.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/tiproblems/SameCharacters.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="array[i]" language="JAVA" />
-      </configuration>
-    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

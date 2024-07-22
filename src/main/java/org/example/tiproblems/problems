@@ -1,0 +1,66 @@
+341. Flatten Nested List Iterator
+
+
+
+Coding Task 1: Core Java (20 mins)
+Q: (Java 8 Stream) Find the word that has the largest length amongst all the words present in the String
+String test = "Welcome to the EPAM Interview process";
+
+
+
+Coding Task 2: Problem-solving(30 mins)
+Q: (Array) Find the length of the largest continuous subarray whose sum is equal to the given targetSum value.
+
+int[] arr = {15, 4, -2, 2, -3, 1, 3, 3, 0};
+int targetSum = 4;
+4 ==> len 1
+4, -2, 2 ==> len 3
+-3, 1, 3, 3 ==> len 4
+-3, 1, 3, 3, 0 ==> len 5
+-2, 2, -3, 1, 3, 3, 0 ==> len 7
+1, 3 ==> len 2
+output: Max length is 7
+
+
+
+
+
+
+
+
+
+
+
+Coding Task 2: Problem-solving(30 mins)
+1. Given an integer sorted arrays a1 and a2, return array a3 which is sorted and comprises all the elements from a1 and a2
+
+Input
+a1 = [2, 9, 10]
+a2 = [5, 7, 20]
+
+Output
+a3 = [2, 5, 7, 9, 10, 20]
+
+
+
+
+
+
+    Coding Task 1: Core Java (20 mins)
+    Given a sentence find the word that has the 2nd (Nth) highest length.
+    “My Name is Samhita and I am a software engineer”
+    Coding Task 1: Candidate's Solution
+    Samhita has attempted the above practical task and almost completed successfully.
+    Used split() method to break the string into Array.
+    Pass the array into Collections.sort to sort the array with word length.
+    Return the Nth element from sorted array.
+
+
+
+
+    Coding Task 2: Problem-solving(30 mins)
+    Problem Statement: We need to perform the performance testing on Microservice A which is handling 1000 RPM in production. There is one java code written which can trigger maximum 100 RPM.
+    How can we optimize and setup the performance testing using java code to achieve at least 1000 RPM?
+    Hint - Using Multi-threading and thread pool concept.
+    Coding Task 2: Candidate's Solution
+    She tried and mentioned that she has worked on thread pooling concept previously, but she could not re-collect the previous experience and explain it.
